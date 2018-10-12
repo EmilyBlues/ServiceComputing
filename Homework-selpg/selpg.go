@@ -43,7 +43,7 @@ func usage(){
 
 func ReceiveArgs(args *selpg_args) {
 	pflag.Usage = usage;
-	//add error information
+	//add error informations
 	pflag.IntVar(&(args.startPage), "s", -1, "start page")
 	pflag.IntVar(&(args.endPage), "e", -1, "end page")
 	pflag.IntVar(&(args.pageLen), "l", 72, "page len")

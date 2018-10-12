@@ -116,17 +116,30 @@ func CheckArgs(args *selpg_args) {
 
 ## 三、实验结果  
 
-### 1、处理命令：selpg --s=1 --e=1 in.txt  
+### 1、处理命令：selpg --s=1 --e=1 in.txt    
 
+![image1](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/1.png)
 
-### 2、处理命令：selpg --s=1 --e=1 < in.txt  
+### 2、处理命令：selpg --s=1 --e=1 < in.txt    
 
-### 3、处理命令：selpg --s=1 --e=1 in.txt > out.txt  
+![image2](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/2.png)
 
-### 4、处理命令：selpg --s=1 --e=1 in.txt 2> error.txt  
+### 3、处理命令：selpg --s=1 --e=1 in.txt > out.txt    
 
-### 5、处理命令：selpg --s=1 --e=1 --l=6 in.txt  
+![image3](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/3.png)
 
-### 6、使用cat指令  
+### 4、处理命令：selpg --s=1 --e=1 in.txt 2> error.txt    
 
-### 7、使用ps指令
+![image4](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/4.png)
+
+### 5、处理命令：selpg --s=1 --e=1 --l=6 in.txt    
+
+![image5](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/5.png)
+
+### 6、使用cat指令    
+
+![image6](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/6.png)
+
+### 7、使用ps指令  
+
+![image7](https://github.com/EmilyBlues/ServiceComputing/blob/master/Homework-selpg/image/7.png)
