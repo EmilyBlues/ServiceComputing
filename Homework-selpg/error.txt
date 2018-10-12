@@ -1,0 +1,10 @@
+You should input --s --e at least
+Usage error!
+Usage: 	selpg --s=Number --e=Number [options] [filename]
+
+	--s=Number	Start Page(Start <= End)
+	--e=Number	End Page(Start <= End)
+	--l=Number	Length of per Page, default 72
+	--f		Whether using the form feeds
+	[filename]	Read from file, default stadern input
+
